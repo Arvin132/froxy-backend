@@ -109,7 +109,6 @@ async def register(
 
 @router.get("/me", response_model=UserResponse)
 async def get_me(cur_user: User = Depends(get_user)):
-    print(cur_user)
     return {
         "id": cur_user.id,
         "email": cur_user.email,

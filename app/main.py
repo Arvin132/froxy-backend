@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api import analysis_router, test_router, auth_router
+from api import analysis_router, auth_router
 from lifespan import lifespan, documents_uploaded
 from dotenv import load_dotenv
 import database
@@ -25,7 +25,6 @@ app.add_middleware(
 )
 
 app.include_router(analysis_router, prefix="/api/analysis", tags=["analysis"])
-app.include_router(test_router, prefix="/api/test", tags=["test"])
 app.include_router(auth_router, prefix="/api/auth", tags=["authentication"])
 
 @app.get("/")
