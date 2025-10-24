@@ -1,3 +1,4 @@
 ./vnenv/
 /venv
 /data/scam_convos
+/app/froxy.db
