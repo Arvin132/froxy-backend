@@ -14,7 +14,7 @@ class ChatMessage(BaseModel):
     content: str    
 
 class ChatAnalysisRequest(BaseModel):
-    messages: list[ChatMessage]
+    chat_content: str
     platform: str
 
 class ChatAnalysisReponse(BaseModel):

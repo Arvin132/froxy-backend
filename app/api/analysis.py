@@ -1,13 +1,13 @@
-from fastapi import APIRouter, Depends, HTTPException, Request
-from .schemas import ChatAnalysisReponse, ChatAnalysisRequest, RiskLevel
+from fastapi import APIRouter, Depends, Request
+from .schemas import ChatAnalysisReponse, ChatAnalysisRequest, ChatMessage
+from .parser import parse_chat
 from agents import ScamDetectionAgent, ScamAnalysis
 from sqlalchemy.orm import Session
 from database import get_db
 from sql_models import AnalysisRequest, AnalysisResponse, User
 from .auth import get_user
-import os
-import json
 from typing import Union
+import os
 
 router = APIRouter()
 
@@ -42,7 +42,8 @@ async def analyze(
     
     try:
         agent = get_scam_agent(request.app.state)
-        response = await agent.analyze(body.messages, body.platform)
+        messages: list[ChatMessage] = parse_chat(body.chat_content, body.platform.lower().strip())
+        response = await agent.analyze(messages, body.platform)
         analysis: ScamAnalysis = response['analysis']
         
         response_entry = AnalysisResponse(

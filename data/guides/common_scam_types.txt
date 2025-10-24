@@ -1,0 +1,51 @@
+Source: Consumer Financial Protection Bureau (CFPB) - Common Types of Scams
+
+Scammers are constantly finding new ways to steal your money, from blackmail to romance scams to selling nonexistent items.
+
+Common types of fraud and scams
+
+Blackmail scams: A scammer threatens to distribute private content from your computer or phone to embarrass you unless you send them money. They often demand payment via wire transfer, gift card, or cryptocurrency.
+
+Charity scams: A thief poses as a real charity or makes up a name that sounds real to get money from you. These scams often increase after natural disasters or during holidays. They may use AI-generated images or voices and ask for cryptocurrency.
+
+Debt collection scams: Scammers pose as debt collectors to get you to pay for debts you don't actually owe. They may threaten legal action or arrest.
+
+Debt settlement and debt relief scams: These companies promise to renegotiate or settle your debts for a large, upfront fee, but dealing with them can be risky and leave you further in debt.
+
+FDIC logo misuse: A scammer falsely displays the FDIC logo or claims to be FDIC-insured to try to assure you that your money is safe when it isn't. This is sometimes related to cryptocurrency.
+
+Foreclosure relief or mortgage loan modification scams: Scammers promise to save you from foreclosure for an upfront fee. They may take your money and do nothing, or trick you into signing over the title to your property.
+
+Grandparent scams (or family emergency scams): A scammer calls pretending to be a relative (like a grandchild) in trouble, claiming they need money immediately for an emergency. This scam plays on your emotions and may use AI voice cloning to sound convincing.
+
+Impostor scams: Scammers pretend to be someone you know or trust, like a government employee (from the CFPB, IRS, or Social Security), law enforcement, or a utility company. They try to get you to send money or share personal information.
+
+Lottery or prize scams: Scammers call, text, or email to tell you you've won a prize, but you must first pay an upfront fee for "fees and taxes" to collect it.
+
+Mail fraud: These are letters that look real but contain fake promises. A common sign is a letter asking you to send money or personal information now to receive something of value (like a prize) later.
+
+Man-in-the-middle scams: A cyberattack where a scammer tricks you into connecting to a fake network, website, or QR code. Once you do, the scammer can steal information like account logins and passwords.
+
+Money mule scams: A money mule is someone who receives and moves fraudulently obtained money. They are often recruited through fake online job posts or romance scams and may not be aware they are assisting with criminal activity.
+
+Money transfer or mobile payment services fraud: Scammers trick you into sending them money using wire transfers or mobile payment apps. These services should only be used with people you know and trust.
+
+Mortgage closing scams: This is a type of "man-in-the-middle" scam where a scammer poses as your real estate or settlement agent and tricks you into wiring your closing funds (like your down payment) to their account.
+
+Romance scams: A scammer creates a fake profile on a dating site or social media, builds a relationship to gain your trust, and then invents an emergency to ask you for money.
+
+Sale of nonexistent goods or services scams: Scammers offer to sell you an item (like concert tickets or a pet), take your payment (often via a mobile app), and then never deliver the item.
+
+Common payment methods used by scammers
+
+Scammers want to get your money quickly and in a way that is hard to get back. They often insist you pay with:
+
+Wire transfers
+
+Money transfers
+
+P2P (peer-to-peer) payment services and mobile payment apps
+
+Gift cards
+
+Cryptocurrency

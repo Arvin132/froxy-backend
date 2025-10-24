@@ -1,0 +1,3 @@
+The FBI's Internet Crime Complaint Center, or IC3, is the central hub for reporting cyber-enabled crime. It receives and analyzes complaints from the public about online fraud, email hoaxes, phishing, identity theft, and other internet-facilitated crimes.
+
+The IC3's mission is to provide the public with a reliable mechanism to report suspected cybercrime to the FBI. The information provided in these complaints is analyzed and used to track trends, identify new threats, and support law enforcement investigations. The IC3 warns that fraudsters may even impersonate the IC3 or other FBI officials to try and steal money or personal information. The IC3 does not contact individuals to request money or personal data.
